@@ -1,0 +1,19 @@
+To check the current node version :
+node --version
+
+To install any dependency :
+npm i nodemon
+
+To Unistall any dependency
+npm uninstall 
+
+Importing/Exporting Modules
+    exporting any perticular variable
+        module.exports=variable;
+
+    importing any perticular variable
+
+        let var2=require("./fileLocation")
+
+Module Wrapper Function :
+    
